@@ -1,0 +1,9 @@
+E:\LTTH\luxe\Client_hieupv\bin\Debug\Client_hieupv.exe.config
+E:\LTTH\luxe\Client_hieupv\bin\Debug\Client_hieupv.exe
+E:\LTTH\luxe\Client_hieupv\bin\Debug\Client_hieupv.pdb
+E:\LTTH\luxe\Client_hieupv\obj\Debug\Client_hieupv.csprojAssemblyReference.cache
+E:\LTTH\luxe\Client_hieupv\obj\Debug\Client_hieupv.Properties.Resources.resources
+E:\LTTH\luxe\Client_hieupv\obj\Debug\Client_hieupv.csproj.GenerateResource.cache
+E:\LTTH\luxe\Client_hieupv\obj\Debug\Client_hieupv.csproj.CoreCompileInputs.cache
+E:\LTTH\luxe\Client_hieupv\obj\Debug\Client_hieupv.exe
+E:\LTTH\luxe\Client_hieupv\obj\Debug\Client_hieupv.pdb

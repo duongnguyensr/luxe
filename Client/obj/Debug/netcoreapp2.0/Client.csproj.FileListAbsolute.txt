@@ -1,0 +1,8 @@
+E:\LTTH\luxe\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+E:\LTTH\luxe\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+E:\LTTH\luxe\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+E:\LTTH\luxe\Client\bin\Debug\netcoreapp2.0\Client.dll
+E:\LTTH\luxe\Client\obj\Debug\netcoreapp2.0\Client.csprojAssemblyReference.cache
+E:\LTTH\luxe\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+E:\LTTH\luxe\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+E:\LTTH\luxe\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
